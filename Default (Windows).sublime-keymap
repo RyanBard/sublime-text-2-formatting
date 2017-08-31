@@ -1,0 +1,14 @@
+[
+    {
+        "keys": [
+            "ctrl+shift+j"
+        ],
+        "command": "format_json"
+    },
+    {
+        "keys": [
+            "ctrl+shift+x"
+        ],
+        "command": "format_xml"
+    }
+]

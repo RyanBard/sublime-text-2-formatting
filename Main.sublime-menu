@@ -1,0 +1,25 @@
+[
+    {
+        "caption": "Selection",
+        "children": [
+            {
+                "caption": "-"
+            },
+            {
+                "caption": "Format",
+                "children": [
+                    {
+                        "caption": "JSON",
+                        "command": "format_json"
+                    },
+                    {
+                        "caption": "XML",
+                        "command": "format_xml"
+                    }
+                ],
+                "id": "format"
+            }
+        ],
+        "id": "selection"
+    }
+]
